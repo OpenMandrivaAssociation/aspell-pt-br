@@ -3,7 +3,7 @@
 %define upstream_version 20090702-0
 
 Name:		aspell-pt-br
-Version: 	20090702.0
+Version: 	20131030_12_0
 Release: 	%mkrel 1
 
 Summary: 	The Brazilian Portuguese dictionary for Aspell.
