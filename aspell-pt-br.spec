@@ -11,7 +11,8 @@ Group: 		System/Internationalization
 URL: 		http://aspell.net/
 Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/pt_BR/%{upstream_name}-%{upstream_version}.tar.bz2
 BuildArch:	noarch
-Requires:      aspell >= 0.60
+Requires:	aspell >= 0.60
+BuildRequires:	aspell >= 0.60
 
 %description
 This package contains the Brazilian Portuguese (pt_BR) dictionary for
