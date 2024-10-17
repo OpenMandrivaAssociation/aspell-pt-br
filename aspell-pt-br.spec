@@ -8,7 +8,7 @@ Release: 	1
 Summary: 	The Brazilian Portuguese dictionary for Aspell.
 License: 	GPL
 Group: 		System/Internationalization
-URL: 		http://aspell.net/
+URL: 		https://aspell.net/
 Source0:	ftp://ftp.gnu.org/gnu/aspell/dict/pt_BR/%{upstream_name}-%{upstream_version}.tar.bz2
 BuildArch:	noarch
 Requires:	aspell >= 0.60
